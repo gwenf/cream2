@@ -1,0 +1,17 @@
+{
+  "name": "gwen_cream_2",
+  "version": "1.0.0",
+  "description": "cream site",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "?.git"
+  },
+  "author": "gwenfaraday@gmail.com",
+  "license": "MIT",
+  "devDependencies": {
+    "gulp-livereload": "^3.8.1"
+  }
+}

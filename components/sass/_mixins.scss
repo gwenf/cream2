@@ -1,0 +1,9 @@
+// all sass functions and mixins
+
+@mixin clearfix {
+  &:after {
+    content: "";
+    display: table;
+    clear: both;
+  }
+}
